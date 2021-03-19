@@ -1,0 +1,4 @@
+Test Welch perf1:
+
+Welch's t-test between RMS(STR=0) and RMS(STR=1) : 
+  Ttest_indResult(statistic=9.375364724960788, pvalue=2.836470954518699e-20)

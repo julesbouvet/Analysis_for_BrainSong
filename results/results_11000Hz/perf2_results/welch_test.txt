@@ -1,0 +1,2 @@
+Welch's t-test between RMS(STR=0) and RMS(STR=1) : 
+  Ttest_indResult(statistic=7.212508691176539, pvalue=1.8445328168961524e-12)

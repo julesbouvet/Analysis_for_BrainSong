@@ -1,0 +1,10 @@
+numpy
+matplotlib
+scipy
+librosa
+soundfile
+hmmlearn
+sklearn
+scikit_posthocs
+statsmodels
+cookiecutter

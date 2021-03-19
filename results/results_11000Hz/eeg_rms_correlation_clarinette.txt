@@ -1,0 +1,31 @@
+                    SPEARMAN CORRELATION BETWEEN EEG AND RMS
+
+--------------------------------------------------------------------------------
+
+Results for perf1:
+
+Spearman correlation for Alpha Band
+ SpearmanrResult(correlation=0.04531564731734115, pvalue=0.6115096480835598)
+
+
+Spearman correlation for Beta Band
+ SpearmanrResult(correlation=0.06825672953671488, pvalue=0.44394130894343353)
+
+
+Spearman correlation for Theta Band
+ SpearmanrResult(correlation=0.12689983519501924, pvalue=0.1534642604787896)
+
+ --------------------------------------------------------------------------------
+
+Results for perf3:
+
+Spearman correlation for Alpha Band
+ SpearmanrResult(correlation=-0.21260371366445405, pvalue=0.0006165163816690463)
+
+
+Spearman correlation for Beta Band
+ SpearmanrResult(correlation=-0.23895270656900888, pvalue=0.0001131057180625084)
+
+
+Spearman correlation for Theta Band
+ SpearmanrResult(correlation=-0.2842290856031128, pvalue=3.817650153999307e-06)
